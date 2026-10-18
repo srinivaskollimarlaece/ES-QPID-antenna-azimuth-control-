@@ -1,0 +1,9 @@
+# Python requirements - only for the optional scripts in python/
+#   python/tuning   : global gain search (differential evolution + Nelder-Mead)
+#   python/figures  : redraws the manuscript figures from results/results_option2.mat
+# The main simulation and every table run in MATLAB or GNU Octave and need no Python.
+# Tested with Python 3.13, numpy 2.5.3, scipy 1.18.1, numba 0.68.0, matplotlib 3.11.2
+numpy>=1.24
+scipy>=1.10
+numba>=0.58
+matplotlib>=3.7

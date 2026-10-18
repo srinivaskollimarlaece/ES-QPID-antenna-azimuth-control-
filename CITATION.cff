@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "ES-QPID: Smith predictor-based quantum-inspired PID control of earth-station antenna azimuth under variable time delay (code)"
+authors:
+  - family-names: "Bharat Kumar"
+    given-names: "P."
+  - family-names: "Srinivasa Rao"
+    given-names: "K."
+  - family-names: "Kannappan"
+    given-names: "S."
+  - family-names: "Jyothi"
+    given-names: "G."
+  - family-names: "Lakshmi"
+    given-names: "R."
+preferred-citation:
+  type: article
+  title: "Smith Predictor-Based Quantum-Inspired PID Controller with Hyperbolic Tangent Nonlinearity for Robust Azimuth Position Control of Earth Station Antennas under Variable Time Delay"
+  authors:
+    - family-names: "Bharat Kumar"
+      given-names: "P."
+    - family-names: "Srinivasa Rao"
+      given-names: "K."
+    - family-names: "Kannappan"
+      given-names: "S."
+    - family-names: "Jyothi"
+      given-names: "G."
+    - family-names: "Lakshmi"
+      given-names: "R."
+  notes: "Article under review. Journal, volume, pages and DOI will be added after publication."
